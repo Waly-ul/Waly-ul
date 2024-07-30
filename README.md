@@ -1,4 +1,3 @@
-![logo](https://github.com/Waly-ul/Waly-ul/blob/main/banner.png?raw=true)
 <h1 align="center">Hi 👋, I'm Md Waly Ul Amin</h1>
 <h3 align="center">I am a junior software developer. I have worked with HTML5, CSS3, Bootstrap5, Tailwind CSS, PHP, Laravel, VueJS, and MySQL.</h3>
 
