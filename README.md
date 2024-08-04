@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Waly</h1>
 <h3 align="center">I am a software developer. I have worked with HTML5, CSS3, Bootstrap5, Tailwind CSS, PHP, Laravel, VueJS, and MySQL.</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw0l9QE5rO0aFFXozQZ96oFj&ust=1722867988573000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNjBxsnF24cDFQAAAAAdAAAAABAR">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waly-ul&label=Profile%20views&color=0e75b6&style=flat" alt="waly-ul" /> </p>
 
