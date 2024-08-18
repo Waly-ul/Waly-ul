@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, Tailwind, PHP, Laravel, JavaScript, Vue.JS, and MySQL.**
 
-- ⚡ Fun fact **I think I am funny.😁**
-
 <p align="left">
 </p>
 
